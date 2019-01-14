@@ -1,0 +1,26 @@
+{
+  "name": "tasting-webpack",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/greenn-lab/tasting-webpack.git"
+  },
+  "keywords": [
+    "webpack",
+    "tasting"
+  ],
+  "author": "green",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/greenn-lab/tasting-webpack/issues"
+  },
+  "homepage": "https://github.com/greenn-lab/tasting-webpack#readme",
+  "devDependencies": {
+    "webpack-cli": "^3.2.1"
+  }
+}
